@@ -1,0 +1,1 @@
+javac -d classes -cp src;lib/commons-csv-1.8.jar src/DeanLister.java
